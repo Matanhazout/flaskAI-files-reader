@@ -1,0 +1,6 @@
+flask
+PyPDF2
+python-docx
+openpyxl
+chardet
+docx

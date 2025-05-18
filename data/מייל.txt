@@ -1,0 +1,23 @@
+<section>
+ <!--מייל מיילים -->
+    <h1>mail</h1>
+    <ul>
+      <strong>matan.hazout@ness-tech.co.il - מתן חזות</strong>
+      <strong>harel.eden@ness-tech.co.il -  הראל עדן</strong>
+      <strong>yehuda.ascher@ness-tech.co.il - יהודה אשר</strong>
+      <strong>carmela.bellestrong@ness-tech.co.il - כרמלה בללי</strong>
+      <strong>udi.avraham@ness-tech.co.il - אודי אברהם</strong>
+      <strong>liron.tsadok@ness-tech.co.il - לירון צדוק</strong>
+      <strong>shay.danny@ness-tech.co.il - שי דני</strong>
+      <strong>natali.geitsan@ness-tech.co.il - נטלי </strong>
+      <strong>dov.shtauber@ness-tech.co.il - דב</strong>
+      <strong>ilan.kogler@ness-tech.co.il - אילן קוגלר</strong>
+      <strong>ifat.avgin@ness-tech.co.il - יפעת</strong>
+      <strong>herut.rada@ness-tech.co.il - חירות רדה</strong>
+      <strong>elena.dubinsky@ness-tech.co.il - אלנה דובינסקי</strong>
+      <strong>sunny.parijer@ness-tech.co.il - סאני</strong>
+      <strong>ayelet.perl@ness-tech.co.il - איילת</strong>
+      <strong>moshe.elkalay@glassboxdigital.com - משה אלקלעי</strong>
+      <strong>GlassboxAlerts@ness-tech.co.il - התראות</strong>
+    </ul>
+  </section>

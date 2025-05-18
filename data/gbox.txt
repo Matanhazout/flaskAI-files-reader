@@ -1,0 +1,82 @@
+<section>
+  <h1>הורדה יזומה של ריסורסים מהCONSOLE</h1>
+  <p>Commands for using the resource recording plugin:</p>
+  <ul>
+    <li><strong>START RECORD:</strong> _detector.plugins.resourceRecorderPlugin.startRecordingAll()</li>
+    <li><strong>STOP RECORD:</strong> _detector.plugins.resourceRecorderPlugin.stopRecordingAll()</li>
+  </ul>
+</section>
+
+<section>
+  <h1>הצגת גרסת דיטקטור שעובד באתר דרך ה CONSOLE</h1>
+  <p>Command to get the current detector version:</p>
+  <ul>
+    <li><strong>Command:</strong> _getClsRuntime().debug().detectorConfig()</li>
+  </ul>
+</section>
+
+<section>
+  <h1>בדיקת OVERID של הגשר ב-WebView במובייל</h1>
+  <p>Command to check the OVERID of the Bridge in WebView on mobile:</p>
+  <ul>
+    <li><strong>Command:</strong> window.glassboxMobileBridge.getContext()</li>
+  </ul>
+</section>
+
+<section>
+  <h1>כפיית סיום סשן</h1>
+  <p>Command to end a session:</p>
+  <ul>
+    <li><strong>Command:</strong> _detector.invalidateSession()</li>
+  </ul>
+</section>
+
+<section>
+  <h1>סינון סטטוס 404 ברשת בלינגוויסטיקס</h1>
+  <p>Filter 404 status in the network tab in Developer Tools:</p>
+  <ul>
+    <li><strong>Filter:</strong> status-code:404</li>
+  </ul>
+</section>
+
+<section>
+  <h1>פקודות קונפיגורציה</h1>
+  <p>Commands to add to the detector configuration.</p>
+</section>
+
+<section>
+  <h1>ביטול DEBUGGER</h1>
+  <p>Commands to cancel debuggers:</p>
+  <ul>
+    <li><strong>Command:</strong> _cls_config.devToolsDebuggerBasedDetection=false;</li>
+    <li><strong>Command:</strong> _cls_config.devToolsDetectionEnabled=false;</li>
+  </ul>
+</section>
+
+<section>
+  <h1>תמיכה בעברית ב-URL</h1>
+  <p>Command to enable Hebrew support in URL:</p>
+  <ul>
+    <li><strong>Command:</strong> _cls_config.decodeUri = true;</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Glassbox JS תבנית קריאה להקלטה</h1>
+  <p>Example call template for Glassbox:</p>
+  <ul>
+    <li><strong>Example:</strong> script type="text/javascript" id="_cls_detector" src="{Detector - Path}" async="true" data-clsconfig="reportURI=https://report.{clientname}.gbqofs.io/{CUID}/reporting/{UUID}/cls_report;></script"</li>
+  </ul>
+</section>
+
+
+
+
+
+<section>
+  <h1>הגדלת חבילות CLS REPORT</h1>
+  <p>Command to increase the size of the CLS report packet:</p>
+  <ul>
+    <li><strong>Command:</strong> _cls_config.maxPostReportSize=40;</li>
+  </ul>
+</section>

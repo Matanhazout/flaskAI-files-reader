@@ -1,0 +1,369 @@
+ <section>
+ <!--משה רבנו שהביא לנו את התורה -->
+    <h1>משה רבנו</h1><p>משה רבנו הוא מהדמויות המרכזיות והחשובות ביותר בתנ"ך וביהדות, ונחשב למנהיג, נביא, ומחוקק:</p>
+    <ul><li><strong>מוצא:</strong> נולד במצרים בתקופה שבני ישראל היו משועבדים לפרעה...</li>
+      <li><strong>יציאה ממצרים:</strong>  הפך למנהיג שהוציא את בני ישראל מעבדות מצרים...</li>
+      <li><strong>מתן תורה:</strong> עלה להר סיני, שם קיבל את לוחות הברית ואת התורה כולה...</li>
+      <li><strong>הנהגה במדבר:</strong> הוא הוביל את בני ישראל במשך 40 שנה במדבר...</li>
+      <li><strong>פטירה:</strong> נפטר בגיל 120 בהר נבו, מול ארץ כנען...</li>
+
+      <li><strong>היסטוריה:</strong> משה רבנו היה מנהיגם של בני ישראל ביציאתם ממצרים. הוא נולד בתקופת גזירות קשות על העברים, הושם כתינוק בתיבה בנילוס ונמצא על ידי בת פרעה. משה גדל כנסיך מצרי, אך לאחר שראה עוול שנעשה לעמו, נמלט למדבר מדין.
+שם נגלה אליו ה' בסנה הבוער, וציווה עליו לחזור למצרים ולגאול את בנ ישראל. משה הוביל את העם ממצרים לאחר עשר המכות, חצה את ים סוף, וקיבל את התורה בהר סיני. הוא הנהיג את העם במדבר ארבעים שנה, אך לא נכנס לארץ כנען – ומת סמוך לגבול, בהר נבו.נבו, מול ארץ כנען...</li>
+    </ul>
+  </section>
+
+  <section>
+  <!--ריסורסים קונסול הורדה -->
+    <h1>הורדה יזומה של ריסורסים מהCONSOLE</h1>
+    <p>Commands for using the resource recording plugin:</p>
+    <ul>
+      <li><strong>START RECORD:</strong> _detector.plugins.resourceRecorderPlugin.startRecordingAll()</li>
+      <li><strong>STOP RECORD:</strong> _detector.plugins.resourceRecorderPlugin.stopRecordingAll()</li>
+    </ul>
+  </section>
+
+  
+
+  
+<section>
+ <!-- הגדרות הגדרה נתיב -->
+<ul>
+  <li><a href="https://cdn.gbqofs.com/zim/UAT/config.js"><strong>צים</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/zva/p/config.js"><strong>צהל</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/bursa/config.js"><strong>בורסה</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/iec/config.js"><strong>חברת חשמל</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/pov/israrail/u/config.js"><strong>רכבת ישראל</strong></a></li>
+  <li><a href="https://cdn2.gbqofs.com/Fattal/p/config.js"><strong>פתאל</strong></a></li>
+  <li><a href="https://cdn2.gbqofs.com/mimun/p/config.js"><strong>מימון ישיר</strong></a></li>
+  <li><a href="https://cdn.glassboxcdn.com/poc/cellcom/p/config.js"><strong>סלקום</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/clal/u/config.js"><strong>כלל ביטוח</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/ipia/u/config.js"><strong>מרכז העליה והקליטה</strong></a></li>
+
+  <li><strong>GOV</strong>
+    <ul>
+      <li><a href="https://cdn.gbqofs.com/govi/generic/config.js"><strong>גוב Generic</strong></a></li>
+      <li><a href="https://cdn.gbqofs.com/govi/Private/config.js"><strong>גוב -Private</strong></a></li>
+      <li><a href="https://cdn.gbqofs.com/govi/Forms/config.js"><strong>גוב Forms</strong></a></li>
+      <li><a href="https://cdn.gbqofs.com/govi/config.js"><strong>גוב - Govi</strong></a></li>
+    </ul>
+  </li>
+
+  <li><a href="https://cdn.glassboxcdn.com/jbnk/uat/config.js"><strong>ירושלים טסט CONF</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/iec/UAT/config.js"><strong>חברת חשמל טסט</strong></a></li>
+
+
+    <ul>
+      <li><a href="https://maccabipharm.maccabi4u.co.il/venia-static/glassBox/config.js"><strong>מכבי - maccabi pharm</strong></a></li>
+      <li><a href="https://cdn2.gbqofs.com/maccabi/p/config.js"><strong>מכבי - shivuky</strong></a></li>
+      <li><a href="https://www.cannabiswell.co.il/detector-dom.min.js"><strong>מכבי - cannabis</strong></a></li>
+      <li><a href="https://serguide.maccabi4u.co.il/dist/externalscripts/glassbox/detector-dom.min.js"><strong>מכבי - service guide</strong></a></li>
+      <li><a href="https://online.maccabi4u.co.il/sonline/scripts/detector-dom.min.js"><strong>מכבי -maccabi online</strong></a></li>
+    </ul>
+  </li>
+
+  <li><a href="https://cdn.glassboxcdn.com/jbnk/jbnkBlack/config.js"><strong>ירושלים PROD אתר חדש</strong></a></li>
+  <li><a href="https://cdn2.gbqofs.com/justice/Lite-P/config.js"><strong>משרד המשפטים טסט</strong></a></li>
+  <li><a href="https://cdn2.gbqofs.com/justice/Full-P/config.js"><strong>משרד המשפטים PROD יצור</strong></a></li>
+  <li><a href="https://cdn.gbqofs.com/mt/israelpost/p/config.js"><strong>דואר ישראל</strong></a></li>
+</ul>
+
+ </section>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  <section>
+
+   <!-- לינק לינקים קישור  דוקומנטציה -->
+<h1>קישורים</h1>
+<ul>
+  <li><a href="https://support.glassbox.com/s/article/5833012131217"><strong>Custom Event</strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/6355954871569#UUID-d0dc9631-db3a-099e-9be3-388847ac3600"><strong>MOBILE SDK Installation Instructions per Platform</strong></a></li>
+  <li><a href="https://support.glassbox.com/s/article/6091371275409#UUID-89eb1c10-56bd-87d8-25b1-3b5173c32e99"><strong>Debug SDK</strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/JavaScript-Detector-Configuration"><strong>JavaScript Detector Configuration</strong></a></li>
+  <li><a href="https://support.glassbox.com/s/article/6015931381393"><strong>AJAX Body Masking </strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/4405781720337"><strong>Mobile SDK Remote Configuration</strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/6130495886737"><strong>Capturing OkHttp Network Calls</strong></a></li>
+  <li><a href="https://support.glassbox.com/s/article/5833012122897"><strong>Mask Sensitive Data from the Codebase</strong></a></li>
+  <li><a href="https://support.glassbox.com/s/article/15683791327378"><strong>Mask Sensitive Data SDK Configuration</strong></a></li>
+   <li><a href="https://support.glassbox.com/s/article/13941379940497"><strong>Turn off Debugger</strong></a></li>
+    <li><a href="https://support.glassbox.com/s/article/72VersionRelease"><strong>הורדות</strong></a></li>
+  <li><a href="https://support.glassbox.com/s/article/How-to-Mask-Views-Using-testId"><strong>How to Mask Views Using testId</strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/Release-Notes-Mobile-SDK-v7-2170-0"><strong>Release Notes - Mobile SDK v7.2170.0</strong></a></li>
+  <li><a href="https://glassbox.my.site.com/s/article/16759438388754"><strong>[Missing Title]</strong></a></li>
+</ul>
+
+</section>
+
+
+  <section>
+  <!--גרסה גרסאת גרסא -->
+    <h1>הצגת גרסת דיטקטור שעובד באתר דרך ה CONSOLE</h1>
+    <p>Command to get the current detector version:</p>
+    <ul>
+      <li><strong>Command:</strong> _getClsRuntime().debug().detectorConfig()</li>
+    </ul>
+  </section>
+
+  <section>
+  <!--WEBVIEW -->
+    <h1>בדיקת OVERID של הגשר ב-WebView במובייל</h1>
+    <p>Command to check the OVERID of the Bridge in WebView on mobile:</p>
+    <ul>
+      <li><strong>Command:</strong> window.glassboxMobileBridge.getContext()</li>
+    </ul>
+  </section>
+
+  <section>
+    <h1>כפיית סיום סשן</h1>
+    <p>Command to end a session:</p>
+    <ul>
+      <li><strong>Command:</strong> _detector.invalidateSession()</li>
+    </ul>
+  </section>
+
+  <section>
+    <h1>סינון סטטוס 404 ברשת בלינגוויסטיקס</h1>
+    <p>Filter 404 status in the network tab in Developer Tools:</p>
+    <ul>
+      <li><strong>Filter:</strong> status-code:404</li>
+    </ul>
+  </section>
+
+
+
+  <section>
+    <h1>ביטול DEBUGGER דיבאג</h1>
+    <p>Commands to cancel debuggers:</p>
+    <ul>
+      <li><strong>Command:</strong> _cls_config.devToolsDebuggerBasedDetection=false;</li>
+      <li><strong>Command:</strong> _cls_config.devToolsDetectionEnabled=false;</li>
+    </ul>
+  </section>
+
+  <section>
+    <h1>תמיכה בעברית ב-URL</h1>
+    <p>Command to enable Hebrew support in URL:</p>
+    <ul>
+      <li><strong>Command:</strong> _cls_config.decodeUri = true;</li>
+    </ul>
+  </section>
+
+  
+<section>
+  <h1>מיסוך קריאות AJAX API</h1>
+  <ul>
+    <p>Detailed guide on how to mask AJAX request and response bodies:</p>
+    <li><strong>Mask Response Body:</strong><br> 
+    <pre><code>
+_cls_config.ajaxMaskResponseBody = [{predicate: "uriMatches(\S*\/GetCustDetails)", transformations:[{type: "jsonfield",search: "idNumber",replace: "**********"},{type: "jsonfield",search: "custFirstName",replace: "**********"},{type: "jsonfield",search: "custLastName",replace: "*********"},{type: "jsonfield",search: "email",replace: "*********"}]}];</li>
+    <li><strong>Mask Request Body:</strong><br> _cls_config.ajaxMaskRequestBody = [{predicate: "uriMatches(\S*\/GetCustDetails)", transformations:[{type: "jsonfield",search: "idNumber",replace: "**********"},{type: "jsonfield",search: "custFirstName",replace: "**********"},{type: "jsonfield",search: "custLastName",replace: "*********"},{type: "jsonfield",search: "email",replace: "*********"}]}];</li>
+    </code></pre>
+  </ul>
+  <p>For more details: <a href="https://support.glassbox.com/s/article/6015931381393">Glassbox support</a></p>
+</section>
+
+
+
+  <section>
+    <h1>Glassbox JS תבנית קריאה להקלטה</h1>
+    <p>Example call template for Glassbox:</p>
+    <ul>
+      <li><strong>Example:</strong> script type="text/javascript" id="_cls_detector" src="{Detector - Path}" async="true" data-clsconfig="reportURI=https://report.{clientname}.gbqofs.io/{CUID}/reporting/{UUID}/cls_report;></script"</li>
+    </ul>
+  </section>
+
+
+
+<section>
+ <!-- פרופיל חברה-->
+  <h1>גלאסבוקס בע"מ </h1> <p>גלאסבוקס בע"מ היא חברה ציבורית ישראלית המספקת, במודל תוכנה כשירות (SaaS), תוכנה לניתוח נתוני גלישה בערוצים דיגיטליים (אתרים ואפליקציות מובייל). מניות החברה נסחרות בבורסה לניירות ערך בתל אביב מאז יוני 2021.</p>
+  
+    <ul><li><h2><strong>היסטוריה: </strong></h2>נוסדה ב-25 בנובמבר 2010 בשם קלריסייט בע"מ. ב-14 באפריל 2016 שינתה שמה ל"גלאסבוקס דיגיטל בע"מ", וב-8 במאי 2016 לשם הנוכחי.מייסדים: יואב שרייבר (מנהל תפעול), ירון גואטה (CTO), חנן בלומשטיין. מנכ"ל נוכחי: ירון מורגנשטרן.חברות בנות הוקמו באנגליה (2015) ובארה"ב (2016).באוקטובר 2020 רכשה את החברה SessionCam.</li>
+  </ul>
+  
+
+ <ul><h2><strong>גיוסי הון והנפקה </strong></h2><li>תן גיוס של 40 מיליון דולר – אוקטובר 2018.גיוס נוסף של 40 מיליון דולר – אפריל 2020.הונפקה ביוני 2021 בשווי של למעלה ממיליארד שקל.</li>
+  </ul>
+
+
+
+  <ul>
+    <h2><strong>מוצרי החברה</strong></h2> <li>מיקסום חוויית המשתמש הדיגיטלית.שיפור שירות בערוצים דיגיטליים.הגדלת מכירות.שיפור אבטחה וציות.</li>
+  </ul>
+  <p>מוצר נוסף: מערכת <strong>SC</strong> של החברה הבת SessionCam.</p>
+  <p><h2><strong>טכנולוגיה ופריסה</strong></h2>רוב ההתקנות בענן (AWS, Azure), קיימת אפשרות להתקנה בענן פרטי או מקומי. ביוני 2021 היו כ-350 לקוחות, כולל ולס פארגו, סיטיגרופ, ג'יי פי מורגן צ'ייס ובנק אוף אמריקה.</p>
+  <p><h2><strong>ביקורת ופרסום</strong></h2>בפברואר 2019 פרסם TechCrunch כי אפליקציות משתמשות בגלאסבוקס למעקב אחר משתמשים. אפל דרשה גילוי שקוף למשתמשים. החברה הדפה את הביקורת בטענה שלא נפגעה פרטיות המשתמשים.</p>
+
+  <h2><strong>מיזוג ויציאה מהמסחר</strong></h2>
+  <p>במאי 2024 הוכרז מיזוג משולש הופכי עם Alicorn Galaxy לפי שווי של 150 מיליון דולר – פחות מחצי מהשווי בהנפקה. החברה צפויה להימחק מהמסחר בבורסה.</p>
+</section>
+
+  <section>
+  <!-- קונסול הורדה -->
+    <h1>הגדלת פקטות חבילות CLS REPORT</h1>
+    <p>Command to increase the size of the CLS report packet:</p>
+    <ul>
+      <li><strong>Command:</strong> _cls_config.maxPostReportSize=40;</li>
+    </ul>
+  </section>
+
+
+<section>
+  <h1>החרגה קריאות AJAX API</h1>
+  <ul>
+  <pre><code>
+
+   /* BEGIN ajax */
+_cls_config.ajaxRecordMetadata="never";
+_cls_config.ajaxRecordRequestBody="and(tld,not(uriMatches(.*socket\.io.*)),not(uriMatches(.*allmenus)))";
+_cls_config.ajaxRecordRequestHeaders="and(tld,not(uriMatches(.*socket\.io.*)),not(uriMatches(.*allmenus)))";
+_cls_config.ajaxRecordResponseBody="and(tld,not(uriMatches(.*socket\.io.*)),not(uriMatches(.*allmenus)))";
+_cls_config.ajaxRecordResponseHeaders="and(tld,not(uriMatches(.*socket\.io.*)),not(uriMatches(.*allmenus)))";
+_cls_config.ajaxRecordStats="and(tld,not(uriMatches(.*socket\.io.*)),not(uriMatches(.*allmenus)))";
+_cls_config.interceptAjax=true;
+</code></pre>
+/* END ajax */             
+  </ul>
+
+</section>
+
+ <section>
+ <!--  שרון -->
+    <h1>שרון אוסקר</h1>
+    <p>בלוגר מהולל חולה טיולים</p>
+    <ul>
+      <li><strong>שורה תחתונה:</strong> המליכ של ישראל! </li>
+  
+      </section>
+
+      <section>
+      <!-- מסמך הטמעה גנרי קובץ -->
+      <strong>
+        <h1> הורדת מסמך הנחיות גנרי </h1>
+        <a href="data/Glassbox - נוהל להטמעת JS  - Template - Copy.docx" download>הורד את הקובץ</a>
+         </strong>
+      </section>
+
+<section>
+  <!-- כתובת IP -->
+   <h1>כתובת ה IP שלך :</h1>
+ <html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+   
+
+    <iframe src="https://ksp.co.il/ip?srsltid=AfmBOopzAPqMnLkViGvwWSoePziy1eiANSCr2F4M-R_e23aTK1Rz9r0i" 
+            width="100%" 
+            height="800px" 
+            style="border: none;">
+    </iframe>
+</body>
+</html>
+      </section>
+
+
+
+      <section>
+        <!-- חדשות  -->
+         <h1>חדשות</h1>
+       <html lang="he">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      </head>
+      <body>
+
+
+          <iframe src="https://rotter.net/scoopscache.html" 
+                  width="100%" 
+                  height="800px" 
+                  style="border: none;">
+          </iframe>
+      </body>
+      </html>
+            </section>
+
+
+            <section>
+              <!--לויזיה ערוצי  -->
+               <h1>TV</h1>
+             <html lang="he">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            </head>
+            <body>
+
+
+                <iframe src="https://gurutv.online/" 
+                        width="100%" 
+                        height="800px" 
+                        style="border: none;">
+                </iframe>
+            </body>
+            </html>
+                  </section>
+
+
+
+                  <section>
+                    <!-- כדורגל ספורט  -->
+                     <h1>ספורט</h1>
+                   <html lang="he">
+                  <head>
+                      <meta charset="UTF-8">
+                      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+                  </head>
+                  <body>
+
+
+                      <iframe src="https://k315.liveball.ws/" 
+                              width="100%" 
+                              height="800px" 
+                              style="border: none;">
+                      </iframe>
+                  </body>
+                  </html>
+                        </section>
+
+
+
+                       
+                              <section>
+                                <!-- סרטים סדרות טלגרם  -->
+                               
+                               <html lang="he">
+                              <head>
+                              <h1> סרטים סדרות </h1>
+                                  <meta charset="UTF-8">
+                                  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                              </head>
+                              <body>
+
+
+                                  <iframe src="https://www.telegram-group.com/" 
+                                          width="100%" 
+                                          height="800px" 
+                                          style="border: none;">
+                                  </iframe>
+                              </body>
+                              </html>
+                                    </section>
